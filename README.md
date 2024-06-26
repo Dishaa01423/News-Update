@@ -20,8 +20,8 @@ This Python script fetches the latest news articles about a specified topic usin
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/Dishaa01423/News-Update.git
+    cd News-Update
     ```
 
 2. Install the required packages:
